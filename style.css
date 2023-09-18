@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+}
+
+table {
+border-collapse: separate;
+  border-spacing: 2px;
+}
+
+#element {
+  border: 1px solid black;
+  height: 60px;
+  width: 60px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+
+sub {
+  vertical-align: text-top;
+  font-size: 12px;
+  padding: .7px;
+}
+
+.element2 {
+  background-color: #FDA172;
+  border-collapse: separate;
+  border-spacing: 0 15px;
+  }
+.element3 {
+  background-color: #FF7F50;
+}
